@@ -1,7 +1,8 @@
 <div align="center">
 
 <br/>
-![Uploading Screenshot 2026-06-18 124643.png…]()
+![Uploading Dashboard.png…]()
+
 
 
 # 🌸 AI Path Compass — Search Algorithm Visualizer
