@@ -1,9 +1,6 @@
 <div align="center">
 
 <br/>
-![Uploading Dashboard.png…]()
-
-
 
 # 🌸 AI Path Compass — Search Algorithm Visualizer
 
@@ -21,6 +18,8 @@
 </div>
 
 ---
+![Uploading Dashboard.png…]()
+
 
 ## 🧠 What Is AI Path Compass?
 
