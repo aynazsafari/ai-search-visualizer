@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# Logs (keep the folder, not generated log files)
+logs/*.txt
+!logs/.gitkeep
+
+# IDE & OS
+.idea/
+.vscode/
+*.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Large media files
+*.mp4
+*.rar
+*.zip
+docs/*.pdf
+docs/*.html
