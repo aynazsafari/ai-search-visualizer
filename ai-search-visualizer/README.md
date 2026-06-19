@@ -20,7 +20,8 @@
 ---
 ## Project Screenshot
 
-![Dashboard Screenshot](assets/Dashboard.png)
+<img width="1868" height="902" alt="Dashboard" src="https://github.com/user-attachments/assets/4e98eac6-a76c-4418-b157-0b9475abd891" />
+
 
 
 ## 🧠 What Is AI Path Compass?
