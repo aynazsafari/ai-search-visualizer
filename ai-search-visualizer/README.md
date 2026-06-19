@@ -204,14 +204,6 @@ G = goal              ───────   (gold)
 
 ---
 
-## 📸 Screenshots
-
-> *Add screenshots of the Streamlit app here for a strong visual portfolio impression!*
->
-> Recommended: one screenshot per panel — grid view, step-by-step player, comparison table.
-
----
-
 ## 🔮 Roadmap
 
 - [ ] 🖱️ Drag-to-draw custom grids in the browser
@@ -247,17 +239,6 @@ and return the schema defined in `core/result_schema.py`.
 
 Distributed under the **MIT License** — free to use, adapt, and share.
 
----
-
-## 👥 Team
-
-| Name | Student ID | Role |
-|---|---|---|
-| *[Your name]* | *[ID]* | *[Role]* |
-| *[Team member]* | *[ID]* | *[Role]* |
-
-**Course:** Artificial Intelligence
-**Project:** Search Algorithm Visualizer for Weighted Grid Pathfinding
 
 ---
 
