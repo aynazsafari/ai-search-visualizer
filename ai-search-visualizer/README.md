@@ -18,7 +18,9 @@
 </div>
 
 ---
-![Uploading Dashboard.png…]()
+## Project Screenshot
+
+![Dashboard Screenshot](assets/Dashboard.png)
 
 
 ## 🧠 What Is AI Path Compass?
