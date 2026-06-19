@@ -244,6 +244,5 @@ Distributed under the **MIT License** — free to use, adapt, and share.
 
 <div align="center">
 
-*Made with 🌸 curiosity and clean Python*
 
 </div>
